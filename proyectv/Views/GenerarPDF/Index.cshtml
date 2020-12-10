@@ -1,0 +1,59 @@
+﻿@model IEnumerable<proyectv.Models.ProductosAdquiridos>
+@if (!string.IsNullOrEmpty(ViewBag.messaged))
+{
+    <script type="text/javascript">
+        alert("@ViewBag.messaged");
+    </script>
+}
+@if (!string.IsNullOrEmpty(ViewBag.error))
+{
+    <script type="text/javascript">
+        alert("@ViewBag.error");
+    </script>
+}
+<environment names="Development">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://kit.fontawesome.com/3f88322c46.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/css/stye1.css" />
+    <script src="~/js/custom.js"></script>
+    <script>let nombre = "@ViewData["nombre"]";</script>
+</environment>
+@*System HTML Embed*@
+<!--Horizontal navbar-->
+<!-- Page content holder -->
+<div class="page-content p-5 text-black" id="content">
+    <div class="row row-cols-1 row-cols-md-3 border p-4">
+        @*initcard*@
+
+        <h1 class="text-white d-block mx-auto mb-4">Estas son todas las ventas realizadas:</h1>
+
+        @{ int counter = 0;}
+
+        @foreach (var item in Model)
+        {
+            if ((counter % 3) == 0)
+            {
+                <div class="w-100"></div>
+            }
+            <div class="col mb-4 text-light" style="cursor: default!important;">
+                <div class="card h-100 bg-dark" style="max-width:234px;padding:0.6rem;">
+                    <img src="/img/productsimg/@Html.DisplayFor(modelItem => item.imagen_producto_adquirido)" class="card-img-top img-thumbnail img-fluid"
+                         style="min-height: 185px; max-height: 185px; max-width: 240px;" alt="@Html.DisplayFor(modelItem => item.nombre_producto_adquirido)">
+                    <div class="card-body text-center">
+                        <h5 class="card-title" style="height:20%">@Html.DisplayFor(modelItem => item.nombre_producto_adquirido)</h5>
+                        <h6 class="card-subtitle" style="height:20%">$@Html.DisplayFor(modelItem => item.valor_total_pagado)</h6>
+                        <small class="text-light d-block" style="height:20%">Unidades: <span class="text-warning">@Html.DisplayFor(modelItem => item.cantidad_producto_adquirido)</span></small>
+                        <small style="height: 20%">Fecha de compra</small>
+                        <input class="form-control mr-sm-2 d-inline mx-auto mt-2 text-center" type="date" value="@Html.DisplayFor(modelItem => item.anio)-@Html.DisplayFor(modelItem => item.mes)-@Html.DisplayFor(modelItem => item.dia)" style="height: 20%" onkeydown="return false" onclick="return false">
+                    </div>
+                </div>
+            </div>
+            counter++;
+        }
+        @*endcard*@
+    </div>
+
+</div>
+<!-- End demo content -->
+@*EndSystem HTML Embed*@

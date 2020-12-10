@@ -1,0 +1,80 @@
+﻿<environment names="Development">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://kit.fontawesome.com/3f88322c46.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="~/css/stye1.css" />
+    <script src="~/js/custom.js"></script>
+    <script>let nombre = "@ViewData["nombre"]";</script>
+</environment>
+<!--Horizontal navbar-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="padding-bottom: 1%;padding-top: 1%;">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/">Tienda del vecino</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" href="/IniciarSesion">Iniciar Sesión</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/RegistrarUsuario">Registrarse</a>
+                </li>
+            </ul>
+            <span class="navbar-text text-info ml-auto">
+                La tienda de la esquina vende muy caro, en cambio la del vecino anda todo barato :)
+            </span>
+        </div>
+    </div>
+</nav>
+<div class="container bg-dark pt-4 mx-auto d-block" style="margin-top: 3%;border-radius: 5px;">
+    <form action="/RegistrarUsuario/Registrar" method="post">
+        <div class="row">
+            <!--COLUMNA 1-->
+            <div class="col-6">
+                <div class="form-group">
+                    <!--NOMBRES-->
+                    <label class="text-light">Nombres</label>
+                    <input type="text" name="Nombres" maxlength="30" class="form-control" autofocus="autofocus" required>
+                    <!--EMAIL-->
+                    <label class="text-light">Correo</label>
+                    <input type="email" maxlength="30" name="Email" class="form-control" required>
+                    <!--EDAD-->
+                    <label class="text-light">Edad</label>
+                    <input type="number" min="1" max="120" name="Edad" class="form-control" required>
+                    <!--TELEFONO-->
+                    <label class="text-light">Número de teléfono</label>
+                    <input type="number" name="Telefono" min="1" max="99999999999" class="form-control" required="" pattern="[0-9]+">
+                </div>
+            </div>
+            <!--COLUMNA 2-->
+            <div class="col-6">
+                <div class="form-group">
+                    <!--TIPO DE DOCUMENTO-->
+                    <label class="text-light">Tipo de documento</label>
+                    <select name="Tipod" class="form-control">
+                        <option value="TI" class="bg-dark text-light">Targeta de identidad</option>
+                        <option value="CC" class="bg-dark text-light">Cédula de ciudadanía</option>
+                        <option value="CE" class="bg-dark text-light">Cédula de extranjería</option>
+                    </select>
+                    <!--NUMERO DOCUMENTO-->
+                    <label class="text-light">Número de documento</label>
+                    <input type="number" min="1" max="9999999999999999" name="Numerod" class="form-control" pattern="[0-9]+" title="Solo se permite numeros" required>
+                    <!--TIPO DE USUARIO-->
+                    <label class="text-light">¿Qué quiere hacer?</label>
+                    <select name="Tipou" class="form-control">
+                        <option value="1" class="bg-dark text-light">Vender productos</option>
+                        <option value="2" class="bg-dark text-light">Comprar productos</option>
+                    </select>
+                    <label class="text-light">Contraseña</label>
+                    <input type="password" maxlength="250" name="password" class="form-control" required="">
+                </div>
+            </div>
+            <button class="btn d-block btn-danger mt-1 mb-3 mx-auto" style="padding-left: 10%; padding-right: 10%;">Registrarse</button>
+        </div>
+    </form>
+</div>
+<footer class="text-white bg-dark p-4" style="position: fixed;width: 100%;top: 89%;">
+    <p class="text-center my-auto">Tienda del vecino by Equipo JED. Licencia <a class="text-warning" href="https://es.wikipedia.org/wiki/Licencia_MIT">MIT</a></p>
+</footer>

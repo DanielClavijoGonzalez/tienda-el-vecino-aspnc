@@ -1,0 +1,139 @@
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.exe
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.deps.json
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.runtimeconfig.json
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.runtimeconfig.dev.json
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.pdb
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.Views.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.Views.pdb
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.csprojAssemblyReference.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.AssemblyInfoInputs.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.AssemblyInfo.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorAssemblyInfo.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorAssemblyInfo.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.TagHelpers.input.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.TagHelpers.output.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorCoreGenerate.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorTargetAssemblyInfo.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorTargetAssemblyInfo.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.Views.pdb
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\staticwebassets\proyectv.StaticWebAssets.Manifest.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\staticwebassets\proyectv.StaticWebAssets.xml
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.pdb
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.genruntimeconfig.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.csproj.CopyComplete
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\IniciarSesion\Index.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\RegistrarUsuario\Index.cshtml.g.cs
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.csproj.CoreCompileInputs.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gil Ochoa\Documents\SENA\Trimestre IV\Carlos Manuel Nuñez Lopez\C#\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Productos\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.exe
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.deps.json
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.runtimeconfig.json
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.runtimeconfig.dev.json
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.pdb
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.Views.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\proyectv.Views.pdb
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.csprojAssemblyReference.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.AssemblyInfoInputs.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.AssemblyInfo.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.csproj.CoreCompileInputs.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorAssemblyInfo.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorAssemblyInfo.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\staticwebassets\proyectv.StaticWebAssets.Manifest.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\staticwebassets\proyectv.StaticWebAssets.xml
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\scopedcss\bundle\proyectv.styles.css
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.TagHelpers.input.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.TagHelpers.output.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorCoreGenerate.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\IniciarSesion\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\RegistrarUsuario\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorTargetAssemblyInfo.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.RazorTargetAssemblyInfo.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.Views.pdb
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.csproj.CopyComplete
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.pdb
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.genruntimeconfig.cache
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\System.Web.Optimization.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\WebGrease.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\DetallesProducto\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\CarritoActual\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\MisProductos\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\GestionarProducto\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\Reporte\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\AddProductoV\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\EditarProducto\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\CambiarFotoPerfilV\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\CambiarCorreoV\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\CambiarContrasenaV\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\CambiarFotoPerfilC\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\CambiarCorreoC\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\CambiarContrasenaC\Index.cshtml.g.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\proyectv.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\00912\Desktop\CODIGO GENERAL\C#\WEB\proyecto\Proyecto ventas\proyectv\proyectv\obj\Debug\netcoreapp3.1\Razor\Views\GenerarPDF\Index.cshtml.g.cs
